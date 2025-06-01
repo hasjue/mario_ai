@@ -1,0 +1,7 @@
+gymnasium[retro]
+stable-baselines3[extra]
+torch
+pygame
+opencv-python
+numpy
+gym-retro
